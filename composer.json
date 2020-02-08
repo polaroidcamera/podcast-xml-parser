@@ -1,5 +1,6 @@
 {
     "name": "polaroid/podcast-xml-parser",
+    "version": "1.0.0",
     "description": "iTunes xml parser",
     "homepage": "https://github.com/polaroidcamera/podcast-xml-parser",
     "keywords": ["xml", "podcast"],
